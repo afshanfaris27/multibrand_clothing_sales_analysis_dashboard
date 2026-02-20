@@ -1,4 +1,4 @@
-# multibrand_clothing_sales_analysis_dashboard
+<img width="1598" height="704" alt="image" src="https://github.com/user-attachments/assets/8d1a29b0-81e3-4994-97b1-0397e436bd86" /># multibrand_clothing_sales_analysis_dashboard
 This project presents an interactive Business Intelligence dashboard developed in Power BI, consisting of four analytical pages: Sales, Product, Brand, and Customer Analysis.
 
 The solution was built using a Kaggle dataset. The data underwent cleaning, transformation, and structured modeling using Power Query and relational data modeling techniques before visualization. The objective of the dashboard is to evaluate overall sales performance, product-level profitability, brand contribution, and customer behavioral patterns.
@@ -59,7 +59,10 @@ Average Purchase Frequency segmented by Age Group and Customer Type (New vs Retu
 
 This page provides demographic segmentation and behavioral insights, highlighting how age, customer type, and seasonal factors influence purchasing patterns and profitability.
 
-Screenshots(Brand, product, Customer): https://github.com/afshanfaris27/multibrand_clothing_sales_analysis_dashboard/commit/d749aa1a81401f422d32e479ef583b72a6e6ba92#diff-1c0da5ec55bcceb1c777d37d5aba227859469f773a088117d77a0a95f7df08e0
+Screenshots of Sales Dashboard: 
+
+Screenshots(Brand, product, Customer): 
+https://github.com/afshanfaris27/multibrand_clothing_sales_analysis_dashboard/commit/d749aa1a81401f422d32e479ef583b72a6e6ba92#diff-1c0da5ec55bcceb1c777d37d5aba227859469f773a088117d77a0a95f7df08e0
 
 **Tools Used:**
 Power BI Desktop,
