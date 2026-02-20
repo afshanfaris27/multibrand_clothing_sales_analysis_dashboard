@@ -4,6 +4,9 @@ This project presents an interactive Business Intelligence dashboard developed i
 The solution was built using a Kaggle dataset. The data underwent cleaning, transformation, and structured modeling using Power Query and relational data modeling techniques before visualization. The objective of the dashboard is to evaluate overall sales performance, product-level profitability, brand contribution, and customer behavioral patterns.
 
 **Sales Dashboard:**
+
+screenshots/
+
 **KPIs:**
 Total Revenue: $1.03 Billion,
 Total Profit: $312.36 Million,
@@ -14,7 +17,7 @@ Average Profit Margin: 30.19%
 Sales and Profit distribution by Brand,
 Sales and Profit comparison by Customer Type,
 Seasonal performance trends in Sales and Profit
-Screenshots - screenshots/
+
 This dashboard provides a high-level performance overview while enabling comparison across brands, customer segments, and seasonal cycles.
 
 **Product Dashboard:**
