@@ -5,8 +5,6 @@ The solution was built using a Kaggle dataset. The data underwent cleaning, tran
 
 **Sales Dashboard:**
 
-screenshots/
-
 **KPIs:**
 Total Revenue: $1.03 Billion,
 Total Profit: $312.36 Million,
@@ -34,7 +32,7 @@ Treemap visualization showing product contribution based on Sales, Profit, and M
 
 This page focuses on identifying high-performing and underperforming products while evaluating profitability at the category level.
 
-**Brand Dashboard:**
+**Brand Dashboard:** - screenshots/
 **KPIs:**
 Top Performing Brand in Sales by Category
 
