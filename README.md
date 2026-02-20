@@ -14,7 +14,7 @@ Average Profit Margin: 30.19%
 Sales and Profit distribution by Brand,
 Sales and Profit comparison by Customer Type,
 Seasonal performance trends in Sales and Profit
-
+Screenshots - screenshots/
 This dashboard provides a high-level performance overview while enabling comparison across brands, customer segments, and seasonal cycles.
 
 **Product Dashboard:**
