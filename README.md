@@ -1,9 +1,11 @@
-<img width="1598" height="704" alt="image" src="https://github.com/user-attachments/assets/8d1a29b0-81e3-4994-97b1-0397e436bd86" /># multibrand_clothing_sales_analysis_dashboard
 This project presents an interactive Business Intelligence dashboard developed in Power BI, consisting of four analytical pages: Sales, Product, Brand, and Customer Analysis.
 
 The solution was built using a Kaggle dataset. The data underwent cleaning, transformation, and structured modeling using Power Query and relational data modeling techniques before visualization. The objective of the dashboard is to evaluate overall sales performance, product-level profitability, brand contribution, and customer behavioral patterns.
 
 **Sales Dashboard:**
+
+<img width="641" height="356" alt="Sales Dashboard IMage" src="https://github.com/user-attachments/assets/37f1e2aa-c499-4f72-809d-0b07a92e6b28" />
+
 **KPIs:**
 Total Revenue: $1.03 Billion,
 Total Profit: $312.36 Million,
@@ -18,6 +20,9 @@ Seasonal performance trends in Sales and Profit
 This dashboard provides a high-level performance overview while enabling comparison across brands, customer segments, and seasonal cycles.
 
 **Product Dashboard:**
+
+<img width="648" height="367" alt="Product Dashboard IMage" src="https://github.com/user-attachments/assets/b75073c7-4194-4765-83af-dc31a42a43db" />
+
 **KPIs:**
 Top Selling Product based on Total Sales
 
@@ -32,6 +37,9 @@ Treemap visualization showing product contribution based on Sales, Profit, and M
 This page focuses on identifying high-performing and underperforming products while evaluating profitability at the category level.
 
 **Brand Dashboard:** 
+
+<img width="646" height="365" alt="Brand Dashboard IMage" src="https://github.com/user-attachments/assets/004a6d4d-9587-435f-9210-c6f0ee92edf0" />
+
 **KPIs:**
 Top Performing Brand in Sales by Category
 
@@ -45,6 +53,9 @@ Treemap highlighting Brand contribution based on Sales, Profit, and Margin
 This dashboard enables brand-level performance evaluation and comparative profitability analysis across customer segments.
 
 **Customer Dashboard:**
+
+<img width="644" height="364" alt="Customer Dashboard IMage" src="https://github.com/user-attachments/assets/8a2009c6-a5a1-4f20-bd0b-9114745a0297" />
+
 **KPIs:**
 Average Customer Rating,
 Average Age: 41,
@@ -58,11 +69,6 @@ Seasonal trend analysis of Sales, Profit, and Margin by Age Group,
 Average Purchase Frequency segmented by Age Group and Customer Type (New vs Returning)
 
 This page provides demographic segmentation and behavioral insights, highlighting how age, customer type, and seasonal factors influence purchasing patterns and profitability.
-
-Screenshots of Sales Dashboard: 
-
-Screenshots(Brand, product, Customer): 
-https://github.com/afshanfaris27/multibrand_clothing_sales_analysis_dashboard/commit/d749aa1a81401f422d32e479ef583b72a6e6ba92#diff-1c0da5ec55bcceb1c777d37d5aba227859469f773a088117d77a0a95f7df08e0
 
 **Tools Used:**
 Power BI Desktop,
