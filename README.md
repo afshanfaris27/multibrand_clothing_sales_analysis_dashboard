@@ -4,7 +4,6 @@ This project presents an interactive Business Intelligence dashboard developed i
 The solution was built using a Kaggle dataset. The data underwent cleaning, transformation, and structured modeling using Power Query and relational data modeling techniques before visualization. The objective of the dashboard is to evaluate overall sales performance, product-level profitability, brand contribution, and customer behavioral patterns.
 
 **Sales Dashboard:**
-
 **KPIs:**
 Total Revenue: $1.03 Billion,
 Total Profit: $312.36 Million,
@@ -32,7 +31,7 @@ Treemap visualization showing product contribution based on Sales, Profit, and M
 
 This page focuses on identifying high-performing and underperforming products while evaluating profitability at the category level.
 
-**Brand Dashboard:** - screenshots/
+**Brand Dashboard:** 
 **KPIs:**
 Top Performing Brand in Sales by Category
 
